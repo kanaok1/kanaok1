@@ -1,3 +1,1 @@
-![](https://media.discordapp.net/attachments/1200182710996570263/1205648334098792558/Frame_2.png?ex=65d92282&is=65c6ad82&hm=60e14d588171830ebf4b5bfdacf47bbe81095099f713592daa4876f98e7c5be3&=&format=webp&quality=lossless)
-![](https://media.discordapp.net/attachments/1200182710996570263/1205648333759316049/Frame_1.png?ex=65d92282&is=65c6ad82&hm=7166390ea40c3b9559f81364bb5f65006ed94555df2845fc42f7a7de90ef5121&=&format=webp&quality=lossless)
-![](https://media.discordapp.net/attachments/1200182710996570263/1205648334421762209/Frame_17.png?ex=65d92282&is=65c6ad82&hm=df87ec028f72e63f5dd1e20e560e40b7fab8116200d55d2d3b44a9b604692f58&=&format=webp&quality=lossless)
+![](https://fixcdn.hyonsu.com/attachments/1257397851223228437/1271155875045703711/git_frame.png?ex=66b64fa9&is=66b4fe29&hm=fa3955e1fdd398a9ced9df358b73b3fbd14745b11846115a8cd9c72660cc50e9&=&format=webp&quality=lossless&width=550&height=194)
